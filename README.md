@@ -1,9 +1,9 @@
 # Renan Hideki Emori ( currículo)
 
-Nome: Renan Hideki Emori
-Celular/whatsapp: (44)99753-7316
-Email: renanemori@gmail.com
-Github: https://github.com/Renan-Emori
+* Nome: Renan Hideki Emori
+* Celular/whatsapp: (44)99753-7316
+* Email: renanemori@gmail.com
+* Github: https://github.com/Renan-Emori
 
 #Conhecimentos
 1) HTML CSS React
