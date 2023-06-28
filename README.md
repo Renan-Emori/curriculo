@@ -10,7 +10,8 @@
 2) Javascript Java C#.net 6.0 Node.js
 3) MySQL SQL-server
 4) Word excel intermediário
-5) Inglês fluente
+5) Git github
+6) Inglês fluente
 
 #Formação
 1) Cursando Análise e Desenvolvimento de Sistemas em UniCV
