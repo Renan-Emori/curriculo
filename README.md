@@ -9,8 +9,8 @@
 1) HTML CSS React
 2) Javascript Java C#.net 6.0 Node.js
 3) MySQL SQL-server
-4) Word excel intermediário
-5) Git github
+4) Git github
+5) Word excel intermediário
 6) Inglês fluente
 
 #Formação
