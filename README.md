@@ -1,1 +1,1 @@
-# curriculo
+# Renan Hideki Emori ( currículo)
